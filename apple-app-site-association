@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "42WA3YGRWR.com.epam.rogers.remote.assist.dev",
+                "paths": [ "*"]
+            }
+        ]
+    }
+}
